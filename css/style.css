@@ -1,0 +1,15 @@
+.header {
+    background: blue;
+}
+
+.header .container {
+    background: green;
+}
+
+.header .container .header__wrapper {
+    
+}
+
+.banner .container {
+    background: orange;
+}
